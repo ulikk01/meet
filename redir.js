@@ -6,7 +6,7 @@ var id = document.URL.split("/")[5];
 if (md == 'deep') {
   var redir = 'www.mythic.vip';
 } else {
-  var redir = 'https://s.click.aliexpress.com/e/'+key;
+  var redir = 'www.mythic.vip'+key;
 }
 
 window.location = redir;
