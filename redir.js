@@ -11,6 +11,6 @@ if (md == 'deep') {
 
 setTimeout(
   function(){
-    window.location = "https://rachmat.id" 
+    window.location = "www.mythic.vip" 
   },
 4000);
